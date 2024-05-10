@@ -1,0 +1,9 @@
+1- open ananconda cmd 
+2- conda env list
+3- conda create -n streamlit
+4- conda activate streamlit
+5- conda install python 
+6- pip install streamlit pandas joblib 
+7-open vs code terminal then selct + open (comand prompt)
+8-conda activate streamlit 
+9-steamlit run app.py
